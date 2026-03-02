@@ -12,3 +12,13 @@ git restore testing.py
 
 
 history
+
+
+ git stutas
+   git stutes
+   git status
+   git add git-command.txt
+   git commit -m "command added"
+   git status
+   git remote add origin https://github.com/devpatel-cloud/workshop-of-devops.git
+   git push origin master
